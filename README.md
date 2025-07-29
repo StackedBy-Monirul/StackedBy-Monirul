@@ -12,28 +12,28 @@ I'm a **Full-Stack Web Developer** with **5+ years of experience**, passionate a
 
 ## 🏆 GitHub Trophies
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=techtricks-mas&theme=onedark&title=MultiLanguage,Commits,Stars,Followers,Repositories&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=StackedBy-Monirul&theme=onedark&title=MultiLanguage,Commits,Stars,Followers,Repositories&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Monirul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=techtricks-mas&show_icons=true&theme=radical)
+![Monirul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=StackedBy-Monirul&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techtricks-mas&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StackedBy-Monirul&layout=compact&theme=radical)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🕒 [Time Tracker](https://github.com/techtricks-mas/timetracker)  
+### 🕒 [Time Tracker](https://github.com/StackedBy-Monirul/timetracker)  
 An internal company tool to manage employees, finances, roles, holidays, and more.
 
 Tech: `Laravel`, `React`, `Tailwind`, `Chrome Extension`, `REST API`, `CSV Export`
 
 ---
 
-### ✅ [Trello-style Task Manager](https://github.com/techtricks-mas/TODO-FRONTEND)  
+### ✅ [Trello-style Task Manager](https://github.com/StackedBy-Monirul/TODO-FRONTEND)  
 Kanban-style task tracker with full drag-and-drop and comment/tag features.
 
 Tech: `React`, `TypeScript`, `MongoDB`, `Node.js`, `Tailwind`
@@ -94,7 +94,7 @@ A visual CSS tool to generate clean, production-ready CSS using Tailwind and cus
 ## 📫 Let's Connect
 
 - 📧 Email: mdshabuj973@gmail.com  
-- 🐙 GitHub: [techtricks-mas](https://github.com/techtricks-mas)  
+- 🐙 GitHub: [StackedBy-Monirul](https://github.com/StackedBy-Monirul)  
 - 💼 LinkedIn: *[Add your LinkedIn profile link]*  
 - 🌍 Portfolio: *Coming soon*
 
