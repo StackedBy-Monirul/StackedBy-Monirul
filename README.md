@@ -1,69 +1,103 @@
 # 👋 Hi, I'm Monirul Islam
 
-I'm a **Full-Stack Web Developer** with **5+ years of experience**, passionate about crafting modern, scalable web applications and developer tools.
+I'm a **Full-Stack Web Developer** with **5+ years of experience**, passionate about building scalable web applications and modern developer tools.
 
-- 🔍 Currently open to work and freelance opportunities.
-- 🧩 Known for advanced **Drag & Drop (DnD)** systems like email builders and Trello-style apps.
-- 🎨 Recently launched a new **CSS Generator App** to help developers write clean CSS visually.
-- 🛠️ Expert in **Laravel, React, TailwindCSS, Node.js**, and full MERN stack.
-- 📈 I care about performance, clean code, and intuitive UX.
-
----
-
-## 💼 Featured Projects
-
-### 🕒 [Time Tracker (Internal Company Tool)](https://github.com/techtricks-mas/timetracker)
-Built with Laravel + React, this tool manages employees, financials, roles, calendar, and reporting.
-- REST API + Blade + Tailwind + CSV Export
-- Role-based access, live search, and daily tracking
-
-### ✅ [Trello-style Task Manager](https://github.com/techtricks-mas/TODO-FRONTEND)
-A Trello-like project management tool with full **Drag & Drop** functionality and task comments.
-- TypeScript, React, Tailwind, Express.js, MongoDB
-- Real-time board updates with task tagging
-
-### 🎨 CSS Generator App (Coming Soon)
-Visual interface for generating optimized, readable CSS.
-- Built for frontend developers
-- Utility-first design powered by Tailwind engine
+- 🔧 Expert in **Laravel, React.js, TailwindCSS, and Node.js**
+- 🧩 Built advanced **Drag & Drop** systems like Email Builders and Trello-style task apps
+- 🎨 Creator of a new **CSS Generator App**
+- 📈 Clean code advocate focused on performance and user experience
+- 🌎 Open to new job opportunities and freelance projects
 
 ---
 
-## 🧠 Skills & Tech Stack
+## 🏆 GitHub Trophies
 
-**Frontend:**  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
-
-**Backend:**  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
-
-**Dev Tools:**  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=techtricks-mas&theme=onedark&title=MultiLanguage,Commits,Stars,Followers,Repositories&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=techtricks-mas&show_icons=true&theme=radical)
+![Monirul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=techtricks-mas&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techtricks-mas&layout=compact&theme=radical)
 
 ---
 
-## 📫 Contact Me
+## 🚀 Featured Projects
 
-- 📧 Email: mdshabuj973@gmail.com
-- 🌐 Portfolio: [Coming Soon]
-- 💼 LinkedIn: [Add your LinkedIn if available]
+### 🕒 [Time Tracker](https://github.com/techtricks-mas/timetracker)  
+An internal company tool to manage employees, finances, roles, holidays, and more.
+
+Tech: `Laravel`, `React`, `Tailwind`, `Chrome Extension`, `REST API`, `CSV Export`
 
 ---
 
-> 💡 _“I believe in writing clean code, learning every day, and building tools that make life easier for developers and users alike.”_
+### ✅ [Trello-style Task Manager](https://github.com/techtricks-mas/TODO-FRONTEND)  
+Kanban-style task tracker with full drag-and-drop and comment/tag features.
+
+Tech: `React`, `TypeScript`, `MongoDB`, `Node.js`, `Tailwind`
+
+---
+
+### 🎨 CSS Generator App *(Coming Soon)*  
+A visual CSS tool to generate clean, production-ready CSS using Tailwind and custom logic.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧑‍💻 Languages & Frameworks  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" alt="Express.js" />
+</p>
+
+---
+
+### 🎨 Frontend Tools  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" alt="SCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="50" alt="jQuery" />
+</p>
+
+---
+
+### 🗄️ Databases  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB" />
+</p>
+
+---
+
+### ⚙️ Tools & Platforms  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" alt="Figma" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: mdshabuj973@gmail.com  
+- 🐙 GitHub: [techtricks-mas](https://github.com/techtricks-mas)  
+- 💼 LinkedIn: *[Add your LinkedIn profile link]*  
+- 🌍 Portfolio: *Coming soon*
+
+---
+
+> _“I love solving real-world problems with code and building intuitive tools for developers and users alike.”_
